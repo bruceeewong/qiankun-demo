@@ -1,0 +1,9 @@
+[submodule "qiankun-vue-demo"]
+	path = qiankun-vue-demo
+	url = https://github.com/bruceeewong/qiankun-vue-demo.git
+[submodule "apps/qiankun-vue-demo"]
+	path = apps/qiankun-vue-demo
+	url = https://github.com/bruceeewong/qiankun-vue-demo.git
+[submodule "apps/qiankun-react-demo"]
+	path = apps/qiankun-react-demo
+	url = https://github.com/bruceeewong/qiankun-react-demo.git
